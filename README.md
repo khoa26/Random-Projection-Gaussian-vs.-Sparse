@@ -19,3 +19,10 @@ Requires Python 3+ and the following packages:
 
 Install via pip:
 pip install numpy scikit-learn
+
+## Usage
+
+Run the script directly:
+
+text
+python random_projection_comparison.py
